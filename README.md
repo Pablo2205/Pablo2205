@@ -6,10 +6,9 @@
   class WhoAmI:
     user = 'Pablo Coria'
 	current_edu = "System Engineer"
-    currently_learning = "AWS"
 	hobbies = [
-				'Music',
-                         'Robotic',
+				'Rea',
+ 				'Robotic',
 			 	'Gaming',
 				'Sci-Fi Movies'
 			]
