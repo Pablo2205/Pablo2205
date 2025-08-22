@@ -7,10 +7,10 @@
     user = 'Pablo Coria'
 	current_edu = "System Engineer"
 	hobbies = [
-				'Rea',
- 				'Robotic',
-			 	'Gaming',
-				'Sci-Fi Movies'
+			'Reading',
+			'Robotic',
+			'Gaming',
+			'Sci-Fi Movies'
 			]
 	
 	def getCity():
